@@ -23,7 +23,7 @@ const CategoryPage = () => {
         </button>
         <button
          className="border-2 border-gray-300 py-1 px-4 rounded-md"
-        onClick={() => navigation("/")}
+        onClick={() => navigation("/Blogs-web-using-contextAPI")}
         >
             Home
         </button>
